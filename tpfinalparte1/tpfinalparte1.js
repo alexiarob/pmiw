@@ -1,4 +1,4 @@
-https://youtu.be/9C-4knWYf5A
+//https://youtu.be/9C-4knWYf5A
 
 let pantallaActual = 0;
 let imagenes = [];
