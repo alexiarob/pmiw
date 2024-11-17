@@ -1,3 +1,5 @@
+//Alexia Roberts 120361/2
+//Video Explicativo: https://youtu.be/uhPc8wjhEgM
 let objJuego;
 let imgAlien, imgNave, imgVaca, imgGranja, sonidoBala, sonidoGanaste, sonidoPerdiste;
 
